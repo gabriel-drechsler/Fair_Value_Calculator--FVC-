@@ -1,8 +1,8 @@
 #### `src/App.jsx`
 ```jsx
-import './style.css';
 import React from "react";
 import FairValueCalculator from "./components/FairValueCalculator";
+import './style.css';
 
 export default function App() {
   return (
