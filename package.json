@@ -8,7 +8,7 @@
   },
 
   {
-  "homepage": "https://dein-username.github.io/dein-repo-name",
+  "homepage": "https://gabriel-drechsler.github.io/Fair_Value_Calculator--FVC-/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
