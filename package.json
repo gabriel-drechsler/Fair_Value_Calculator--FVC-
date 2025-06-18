@@ -2,20 +2,15 @@
   "name": "my-dcf-tool",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://gabriel-drechsler.github.io/Fair_Value_Calculator--FVC-/",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
-
-  {
-  "homepage": "https://gabriel-drechsler.github.io/Fair_Value_Calculator--FVC-/",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  }
-},
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
