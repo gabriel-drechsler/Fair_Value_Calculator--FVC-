@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fair_Value_Calculator--FVC-/static/css/main.27b34c89.css",
+    "main.js": "/Fair_Value_Calculator--FVC-/static/js/main.f732e461.js",
+    "index.html": "/Fair_Value_Calculator--FVC-/index.html",
+    "main.27b34c89.css.map": "/Fair_Value_Calculator--FVC-/static/css/main.27b34c89.css.map",
+    "main.f732e461.js.map": "/Fair_Value_Calculator--FVC-/static/js/main.f732e461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b34c89.css",
+    "static/js/main.f732e461.js"
+  ]
+}
