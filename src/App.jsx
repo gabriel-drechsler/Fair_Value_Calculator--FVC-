@@ -1,5 +1,4 @@
-#### `src/App.jsx`
-```jsx
+
 import React from "react";
 import FairValueCalculator from "./components/FairValueCalculator";
 import './style.css';
